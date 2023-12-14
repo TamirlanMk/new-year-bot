@@ -1,0 +1,9 @@
+<svg width="1280" height="720" xmlns="http://www.w3.org/2000/svg">
+    <!-- Горизонтальное фото -->
+    <!--    <image x="538" y="340" width="342" height="228"-->
+    <!--           href="https://thumbs.dreamstime.com/b/счаст-ивые-сту-енты-стоя-в-кампусе-36709548.jpg"/>-->
+    <!--    <image href="E:/bot-new-year/assets/images/back-h.png" width="1280" height="720"/>-->
+    <image x="556" y="290" width="271" height="341"
+           href="https://thumbs.dreamstime.com/b/счаст-ивые-сту-енты-стоя-в-кампусе-36709548.jpg"/>
+    <image href="E:/bot-new-year/assets/images/back-v.png" width="1280" height="720"/>
+</svg>
